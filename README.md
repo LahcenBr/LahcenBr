@@ -1,16 +1,77 @@
-## Hi there 👋
+###👋 Bonjour, je suis Lahcen Berdaouz
 
-<!--
-**LahcenBr/LahcenBr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Étudiant en Master 2 — Intelligence Artificielle Embarquée
+📍 Université Ibn Zohr — Faculté des Sciences Appliquées, Aït Melloul
+🔎 À la recherche d'un stage PFE pour 2027
 
-Here are some ideas to get you started:
+##👨‍💻 À propos de moi
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Je suis étudiant en Master 2 en Intelligence Artificielle Embarquée, avec un intérêt particulier pour l'intelligence artificielle, les systèmes embarqués, l'IoT et l'analyse de données.
+
+Titulaire d'une Licence en Sciences Mathématiques et Informatique, parcours Science des Données, je développe mes compétences à travers des projets académiques et personnels.
+
+##🛠️ Compétences
+
+Langages
+
+Python
+
+C
+
+Java
+
+Intelligence artificielle & Data
+
+Machine Learning
+
+Data Science
+
+Analyse de données
+
+Développement
+
+HTML
+
+CSS
+
+JavaScript
+
+PHP
+
+Systèmes & Technologies
+
+Systèmes embarqués
+
+IoT
+
+Réseaux
+
+Bases de données
+
+##🚀 Projet principal
+
+Système de diagnostic assisté par IA pour la détection des fractures de la main
+
+Projet de fin d'études réalisé dans le cadre de ma Licence en Science des Données.
+
+Le projet consiste à développer une solution basée sur l'intelligence artificielle pour analyser des images médicales et détecter les fractures de la main.
+
+##🎯 Objectif professionnel
+
+Je recherche un stage de fin d'études (PFE) pour 2027 dans les domaines suivants :
+
+Systèmes embarqués
+
+Intelligence artificielle embarquée
+
+IoT
+
+Machine Learning
+
+Data Science
+
+##📫 Contact
+
+GitHub : https://github.com/LahcenBr
+
+LinkedIn : à venir
