@@ -4,15 +4,15 @@
 📍 Université Ibn Zohr — Faculté des Sciences Appliquées, Aït Melloul
 🔎 À la recherche d'un stage PFE pour 2027
 
-##👨‍💻 À propos de moi
+##🎓 À propos de moi
 
-Je suis étudiant en Master 2 en Intelligence Artificielle Embarquée, avec un intérêt particulier pour l'intelligence artificielle, les systèmes embarqués, l'IoT et l'analyse de données.
+Je suis étudiant en Master en Intelligence Artificielle Embarquée, avec un intérêt particulier pour l'intelligence artificielle, les systèmes embarqués, l'IoT et l'analyse de données.
 
 Titulaire d'une Licence en Sciences Mathématiques et Informatique, parcours Science des Données, je développe mes compétences à travers des projets académiques et personnels.
 
 ##🛠️ Compétences
 
-Langages
+👨‍💻Langages
 
 Python
 
@@ -20,7 +20,7 @@ C
 
 Java
 
-Intelligence artificielle & Data
+📊Intelligence artificielle & Data
 
 Machine Learning
 
@@ -28,7 +28,7 @@ Data Science
 
 Analyse de données
 
-Développement
+🌐Développement
 
 HTML
 
@@ -38,7 +38,7 @@ JavaScript
 
 PHP
 
-Systèmes & Technologies
+🤖Systèmes & Technologies
 
 Systèmes embarqués
 
@@ -65,6 +65,8 @@ Data Science
 
 ##📫 Contact
 
-GitHub : https://github.com/LahcenBr
+📂 GitHub : https://github.com/LahcenBr
 
-LinkedIn : à venir
+📧 Email: lhssnbrdawz8@gmail.com
+
+💼 LinkedIn : à venir
