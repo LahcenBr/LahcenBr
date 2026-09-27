@@ -1,18 +1,18 @@
-###👋 Bonjour, je suis Lahcen Berdaouz
+# 👋 Bonjour, je suis Lahcen Berdaouz
 
 🎓 Étudiant en 2ème année de Master Intelligence Artificielle Embarquée
 📍 Université Ibn Zohr — Faculté des Sciences Appliquées, Aït Melloul
 🔎 À la recherche d'un stage PFE pour 2027
 
-##🎓 À propos de moi
+## 🎓 À propos de moi
 
 Je suis étudiant en Master en Intelligence Artificielle Embarquée, avec un intérêt particulier pour l'intelligence artificielle, les systèmes embarqués, l'IoT et l'analyse de données.
 
 Titulaire d'une Licence en Sciences Mathématiques et Informatique, parcours Science des Données, je développe mes compétences à travers des projets académiques et personnels.
 
-##🛠️ Compétences
+## 🛠️ Compétences
 
-👨‍💻Langages
+### 👨‍💻Langages
 
 Python
 
@@ -20,7 +20,7 @@ C
 
 Java
 
-📊Intelligence artificielle & Data
+### 📊Intelligence artificielle & Data
 
 Machine Learning
 
@@ -28,7 +28,7 @@ Data Science
 
 Analyse de données
 
-🌐Développement
+### 🌐Développement
 
 HTML
 
@@ -38,7 +38,7 @@ JavaScript
 
 PHP
 
-🤖Systèmes & Technologies
+### 🤖Systèmes & Technologies
 
 Systèmes embarqués
 
@@ -49,7 +49,7 @@ Réseaux
 Bases de données
 
 
-##🎯 Objectif professionnel
+## 🎯 Objectif professionnel
 
 Je recherche un stage de fin d'études (PFE) pour 2027 dans les domaines suivants :
 
@@ -63,7 +63,7 @@ Machine Learning
 
 Data Science
 
-##📫 Contact
+## 📫 Contact
 
 📂 GitHub : https://github.com/LahcenBr
 
