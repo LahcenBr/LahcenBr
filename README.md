@@ -1,6 +1,6 @@
 ###👋 Bonjour, je suis Lahcen Berdaouz
 
-🎓 Étudiant en Master 2 — Intelligence Artificielle Embarquée
+🎓 Étudiant en 2ème année de Master Intelligence Artificielle Embarquée
 📍 Université Ibn Zohr — Faculté des Sciences Appliquées, Aït Melloul
 🔎 À la recherche d'un stage PFE pour 2027
 
@@ -48,13 +48,6 @@ Réseaux
 
 Bases de données
 
-##🚀 Projet principal
-
-Système de diagnostic assisté par IA pour la détection des fractures de la main
-
-Projet de fin d'études réalisé dans le cadre de ma Licence en Science des Données.
-
-Le projet consiste à développer une solution basée sur l'intelligence artificielle pour analyser des images médicales et détecter les fractures de la main.
 
 ##🎯 Objectif professionnel
 
